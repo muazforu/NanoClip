@@ -11,9 +11,14 @@
 NanoClip watches your video, finds the best moments, writes catchy titles,
 and cuts share-ready vertical clips for **TikTok, Reels, Shorts** and more.
 
+**100% free and open source — no subscriptions, no watermarks, no catch.**
+Just bring a free [Gemini API key](#-api-key-setup-2-minutes-free) (2-minute setup)
+and you're editing like a pro.
+
 [![GitHub release](https://img.shields.io/github/v/release/muazforu/NanoClip?style=flat-square)](https://github.com/muazforu/NanoClip/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/muazforu/NanoClip?style=flat-square)](https://github.com/muazforu/NanoClip/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Free](https://img.shields.io/badge/Free-Forever-success?style=flat-square)](#-is-nanoclip-free)
 [![Windows](https://img.shields.io/badge/Windows-x64-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/muazforu/NanoClip/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple_Silicon-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/muazforu/NanoClip/releases/latest)
 
@@ -195,6 +200,20 @@ in settings, and check the [troubleshooting guide](docs/INSTALLATION.md#troubles
 **Backend** Python · FastAPI · Celery · Redis · SQLite · FFmpeg · faster-whisper · yt-dlp
 **Desktop** Tauri (Rust) · **Frontend** React · TypeScript
 **AI** Gemini · OpenAI-compatible · Qwen · Ollama · LM Studio
+
+---
+
+## 👨‍💻 About the developer
+
+**NanoClip** is crafted by **Muaz Manzoor Yousafzai** — a 23-year-old
+Pakistani student and the maker behind
+**[Techinfotics](https://techinfotics.online)**.
+
+Built with the belief that powerful creative tools shouldn't cost a fortune —
+or a subscription.
+
+If NanoClip saves you hours of editing, a ⭐ on the repo keeps a student
+developer going. Shukriya!
 
 ---
 
